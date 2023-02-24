@@ -2,6 +2,10 @@
 
 Color Picker is a Python program that allows users to select any color on their screen by clicking on it with their mouse. The program displays the selected color in both RGB and HEX formats on a canvas and a label. The canvas displays the selected color as its background color, while the label shows the RGB and HEX values of the selected color.
 
+
+https://user-images.githubusercontent.com/108623726/221314062-744187b1-a45d-46e6-86f1-68cd5cca7433.mp4
+
+
 ## Installation
 
 The following libraries are required to run this program:
